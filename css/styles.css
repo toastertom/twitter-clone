@@ -166,8 +166,10 @@ body {
 		padding-left: 42px;
 	}
 
+}
 	.tweet-actions {
 		text-align: right;
+
 	}
 		.tweet-actions ul {
 			list-style-type: none;
@@ -194,6 +196,7 @@ body {
 	.action-reply {
 		background-position: 0 -190px;
 	}
+	
 	.action-retweet {
 		background-position: -20px -190px;
 		width: 14px;
@@ -258,5 +261,3 @@ body {
 				top: 0;
 				left: 0;
 			}
-
-
